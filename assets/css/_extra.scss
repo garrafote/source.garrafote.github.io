@@ -1,0 +1,26 @@
+$shadow-size: .2em;
+
+.app-header-avatar {
+  border: 0.25rem solid $primary-color;
+}
+
+@media (max-width: 940px) {
+  .app-header {
+    box-shadow: inset 0 (-$shadow-size) $shadow-size (-$shadow-size) #111;
+  }
+}
+
+@media (min-width: 940px) {
+  .app-header {
+    h1 {
+      font-size: 30px;
+    }
+    width: 21rem;
+  
+    box-shadow: inset (-$shadow-size) 0 $shadow-size (-$shadow-size) #111;
+  }
+
+  .app-container {
+    margin-left: 21rem;
+  }
+}

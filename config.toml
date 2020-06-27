@@ -2,3 +2,27 @@ baseURL = "http://garrafote.com/"
 languageCode = "en-us"
 title = "Garrafote's Vault"
 theme = "m10c"
+
+[params]
+  author = "Lucas Vasconcelos"
+  description = "Software Engineer interested in graphics and tools development"
+  avatar = "/img/avatar.jpg"
+
+[[params.social]]
+  name = "telegram"
+  url = "https://t.me/garrafote/"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/garrafote/"
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/garrafote/"
+
+[params.style]
+  darkestColor = "#16191D"
+  darkColor = "#222A32"
+  lightColor = "#B3C1D0"
+  lightestColor = "#F5F9FE"
+  primaryColor = "#00B2FA"
