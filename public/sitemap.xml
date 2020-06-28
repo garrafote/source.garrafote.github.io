@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://garrafote.com/</loc>
+    <loc>https://garrafote.com/</loc>
     <lastmod>2020-06-23T09:17:29-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://garrafote.com/posts/hello-hugo/</loc>
+    <loc>https://garrafote.com/posts/hello-hugo/</loc>
     <lastmod>2020-06-23T09:17:29-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://garrafote.com/posts/</loc>
+    <loc>https://garrafote.com/posts/</loc>
     <lastmod>2020-06-23T09:17:29-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://garrafote.com/categories/</loc>
+    <loc>https://garrafote.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://garrafote.com/tags/</loc>
+    <loc>https://garrafote.com/tags/</loc>
   </url>
   
 </urlset>

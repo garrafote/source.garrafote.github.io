@@ -1,4 +1,4 @@
-baseURL = "http://garrafote.com/"
+baseURL = "https://garrafote.com/"
 languageCode = "en-us"
 title = "Garrafote's Vault"
 theme = "m10c"
